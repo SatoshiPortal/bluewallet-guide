@@ -6,7 +6,7 @@ The next step involves creating **a paper backup** of your Bitcoin wallet, which
 
 The backup consists of a series of words generated randomly by the Bitcoin wallet.
 
-**{Image example of a backup}**
+![Example of a 24-word backup](../.gitbook/assets/seedphrase.jpg)
 
 **These words allow you to recover access to your Bitcoin wallet** in case anything happens to your phone**.**&#x20;
 
