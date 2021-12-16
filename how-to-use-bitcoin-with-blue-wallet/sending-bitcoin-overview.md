@@ -6,4 +6,4 @@ Blue offers Coin Control. When you are sending transactions, you can select the 
 
 Think of bitcoins as actual physical coins of different amounts in your pocket. When you spend them, you will combine the change, and you will get some new change back.
 
-![](../.gitbook/assets/utxo-preview.png)
+![Visual representation of Bitcoin UTXO's](../.gitbook/assets/utxo-preview.png)
