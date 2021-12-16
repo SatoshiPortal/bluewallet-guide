@@ -1,35 +1,38 @@
 ---
-description: >-
-  Here you'll find some helpful insights to better navigate the Bitcoin Support
-  Do-It-Yourself self-custody guides.
+cover: .gitbook/assets/Blue Wallet_2.png
+coverY: 0
 ---
 
-# Welcome!
+# Why we recommend Blue Wallet
 
-Bitcoin Support by Bull Bitcoin is proud to present to you the instructions for setting up various self-custody wallets based on Bull Bitcoin's security standards. \
-\
-We'll go over some terms used throughout these guides to make sure that everything is clear when you go through them.&#x20;
+Blue Wallet is an open-source, Bitcoin-only wallet for mobile and Mac. Create a Bitcoin wallet and backup in a few clicks. It is easy to use, with a very small learning curve. The Bitcoin wallet is fully non-custodial, allowing for complete control over use of funds. Advanced features are available for enhanced usability and security. As mobile wallets go, this one is very secure.
 
-{% content-ref url="glossary.md" %}
-[glossary.md](glossary.md)
-{% endcontent-ref %}
+This is a great choice for individuals that are beginning their self-custody journey or those that use Bitcoin on a daily basis.
 
-If you are already comfortable with the terminology used in Bitcoin, you can jump straight to a guide in particular...
+{% hint style="info" %}
+* You can use Blue Wallet in combination with all major hardware wallets.&#x20;
+* It is also a custodial Lightning wallet but you can connect it to your own LND hub for greater autonomy, as well as connect it to your own Bitcoin node via an Electrum server.
+{% endhint %}
 
-{% content-ref url="https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/ddGLyC88wKsZalD60pMr/" %}
-[Blue Wallet](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/ddGLyC88wKsZalD60pMr/)
-{% endcontent-ref %}
+### Blue wallet benefits and limitations
 
-{% content-ref url="https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/PdwveKS34LFQnTOWXGHS/" %}
-[Wasabi Wallet](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/PdwveKS34LFQnTOWXGHS/)
-{% endcontent-ref %}
+* ✅Good security with password and biometrics
+* ✅Easy backup and recovery
+* ✅Very simple to use
+* ✅Advanced transactions features
+* ✅Beginner friendly
+* ✅Compatible with hardware wallet
+* ✅Reputable and renown
+* ✅Setup time: 30 minutes
+* ❌Not available on Linux or Windows
+* ❌Less secure than hardware wallet
 
-{% content-ref url="https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/HbtIULhqxRWNwsAzAwP4/" %}
-[Coldcard Hardware Wallet](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/HbtIULhqxRWNwsAzAwP4/)
-{% endcontent-ref %}
+#### <mark style="color:red;">**Read about the benefits of self-custody**</mark>
 
-{% content-ref url="https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/hNU2yF0esRapJRnYNioo/" %}
-[Conjoin with Wasabi](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/hNU2yF0esRapJRnYNioo/)
-{% endcontent-ref %}
+### What is this all for?
 
-If you have any questions or remarks, feel free to send them to **`support@bitcoinsupport.com`** or send a message directly to **`@tristanborgess`** on Twitter.&#x20;
+* Buying Bitcoin from a non-custodial exchange.&#x20;
+* Ability to transact with Bitcoin on a laptop (funding exchanges, making payments).&#x20;
+* Storing Bitcoin with backups for long-term before upgrading to a hardware wallet.&#x20;
+* Managing different wallets for different purposes.&#x20;
+* Transact easily using the QR code capabilities.
