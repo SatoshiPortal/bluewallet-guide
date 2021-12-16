@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Blue Wallet_2.png
+cover: .gitbook/assets/GITBOOK_BANNER_BLUE.png
 coverY: 0
 ---
 
