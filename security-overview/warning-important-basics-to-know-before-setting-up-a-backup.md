@@ -23,9 +23,4 @@ Before creating your paper backup, please read the 5 rules below carefully.
 ## <mark style="color:red;">5. Don't take a picture, print or share your words</mark>
 {% endhint %}
 
-**{image that show the above flows on how you can you lose your funds}**&#x20;
-
-1. **4 images containing password and seed phrase:**&#x20;
-2. **Big ‘X’ on passphrase Big ‘X’ on seedphrase**&#x20;
-3. **Big ‘X’ on both**&#x20;
-4. **Checkmark on both = you still have your funds**
+![Scenarios where you can lose your funds.](../.gitbook/assets/how-to-lose-btc.png)
