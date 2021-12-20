@@ -27,8 +27,6 @@ This is a great choice for individuals that are beginning their self-custody jou
 * ❌Not available on Linux or Windows
 * ❌Less secure than hardware wallet
 
-#### <mark style="color:red;">**Read about the benefits of self-custody**</mark>
-
 ### What is this all for?
 
 * Buying Bitcoin from a non-custodial exchange.&#x20;

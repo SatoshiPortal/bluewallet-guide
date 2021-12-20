@@ -17,4 +17,4 @@
 
 ![](<../.gitbook/assets/BW Send.gif>)
 
-#### <mark style="color:red;">Read about the benefits of Bitcoin privacy/coin control</mark>
+#### <mark style="color:red;"></mark>[<mark style="color:red;">Read about the benefits of Bitcoin privacy</mark>](https://medium.com/bull-bitcoin/the-benefits-of-privacy-f728d5215308)<mark style="color:red;"></mark>
