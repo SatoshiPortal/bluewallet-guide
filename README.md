@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/GITBOOK_BANNER_BLUE_1920x1080_NOUVEAU_3.png
+cover: .gitbook/assets/GITBOOK_BANNER_BLUE_1920x1080_NOUVEAU_3 (1).png
 coverY: 0
 ---
 
