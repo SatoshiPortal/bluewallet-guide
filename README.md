@@ -32,7 +32,7 @@ This is a great choice for individuals that are beginning their self-custody jou
 ### What is this all for?
 
 * Buying Bitcoin from a non-custodial exchange.&#x20;
-* Ability to transact with Bitcoin on a laptop (funding exchanges, making payments).&#x20;
+* Ability to transact with Bitcoin on mobile (funding exchanges, making payments).&#x20;
 * Storing Bitcoin with backups for long-term before upgrading to a hardware wallet.&#x20;
 * Managing different wallets for different purposes.&#x20;
 * Transact easily using the QR code capabilities.
