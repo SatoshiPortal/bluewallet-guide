@@ -12,5 +12,3 @@
 9. Click “OK”
 
 ![](../.gitbook/assets/bwpassphrase.gif)
-
-![Example of a 12-word passphrase.](../.gitbook/assets/passphrase.jpg)
