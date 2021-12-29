@@ -1,14 +1,15 @@
 # Steps to create a passphrase
 
 1. Go to the “Settings” menu by clicking on the three dots in the upper right corner.
-2. Enable “Advanced Mode”.
-3. Go back to the wallet dashboard and select “Add now” under Add Wallet.
-4. Select “Import wallet”.
-5. Enter your 12 word seed phrase.
+2. Click on "General".
+3. Enable “Advanced Mode”.
+4. Go back to the wallet dashboard and select “Add now” under Add Wallet.
+5. Select “Import wallet”.
+6. Enter your 12 word seed phrase.
    * Separate each word with a space.
-6. Enable the “Passphrase” option.
-7. Click on “Import”.
-8. Enter your passphrase.
-9. Click “OK”
+7. Enable the “Passphrase” option.
+8. Click on “Import”.
+9. Enter your passphrase.
+10. Click “OK”
 
 ![](../.gitbook/assets/bwpassphrase.gif)
