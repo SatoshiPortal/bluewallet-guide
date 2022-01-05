@@ -5,7 +5,7 @@ coverY: 0
 
 # Why we recommend Blue Wallet
 
-Blue Wallet is an open-source, Bitcoin-only wallet for mobile and Mac. Create a Bitcoin wallet and backup in a few clicks. It is easy to use, with a very small learning curve. The Bitcoin wallet is fully non-custodial, allowing for complete control over use of funds. Advanced features are available for enhanced usability and security. As mobile wallets go, this one is very secure.
+Blue Wallet is a Free and Open-Source, Bitcoin-only wallet for mobile and Mac. Create a Bitcoin wallet and backup in a few clicks. It is easy to use, with a very small learning curve. The Bitcoin wallet is fully non-custodial, allowing for complete control over use of funds. Advanced features are available for enhanced usability and security. As mobile wallets go, this one is very secure.
 
 This is a great choice for individuals that are beginning their self-custody journey or those that use Bitcoin on a daily basis.
 
