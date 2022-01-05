@@ -4,7 +4,7 @@ Blue Wallet is one of the safest ways you can use Bitcoin if you are not using a
 
 * The wallet is open-source and has been reviewed independently to make sure there is no malware or backdoor.&#x20;
 * The developers cannot have access to your Bitcoin wallet.&#x20;
-* The private keys that control the Bitcoin are encrypted, and to spend money each time you must decrypt them with your app's password.&#x20;
+* The private keys that control the Bitcoin are encrypted on your phone and protected with a passphrase. To spend money each time you must decrypt your device with your app's password or with your biometrics.&#x20;
 * Blue Wallet protects you well against non-hacker people that gain access to your phone.&#x20;
 * Blue Wallet is more vulnerable to malware and hackers than hardware wallets.&#x20;
 * Blue Wallet lets you create backups easily and securely which let you recover access to your money if your computer is damaged, lost or stolen.
