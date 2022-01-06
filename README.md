@@ -9,6 +9,8 @@ Blue Wallet is a Free and Open-Source, Bitcoin-only wallet for mobile and Mac. C
 
 This is a great choice for individuals that are beginning their self-custody journey or those that use Bitcoin on a daily basis.
 
+<mark style="color:red;">****</mark>[<mark style="color:red;">**Read about the benefits of self-custody**</mark>](https://medium.com/bull-bitcoin/top-7-reasons-to-self-custody-b1853db0f435)<mark style="color:red;">****</mark>
+
 {% hint style="info" %}
 * You can use Blue Wallet in combination with all major hardware wallets.&#x20;
 * It is also a custodial Lightning wallet but you can connect it to your own LND hub for greater autonomy, as well as connect it to your own Bitcoin node via an Electrum server.
