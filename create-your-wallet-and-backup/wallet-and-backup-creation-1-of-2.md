@@ -1,8 +1,8 @@
 # Wallet & Backup Creation - 1 of 2
 
-1. Download Blue Wallet from the [<mark style="color:red;">App Store for iOS users</mark>](https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040) or the [<mark style="color:red;">Google Play Store for Android users</mark>](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet).
-2. Click on the “Add now” button or the “+” icon in the top right corner, this will take you to a new screen.
-3. Enter a name for your wallet and click on the “Bitcoin wallet” option.
+1. Download BlueWallet from the [<mark style="color:red;">App Store for iOS users</mark>](https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040) or the [<mark style="color:red;">Google Play Store for Android users</mark>](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet).
+2. Click on the `Add now` button or the `+` icon in the top right corner, this will take you to a new screen.
+3. Enter a name for your wallet and click on the `Bitcoin wallet` option.
 
 ![](<../.gitbook/assets/BW Create.gif>)
 

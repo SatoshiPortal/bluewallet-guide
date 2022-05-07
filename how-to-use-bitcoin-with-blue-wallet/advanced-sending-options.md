@@ -1,6 +1,6 @@
 # Advanced Sending Options
 
-### After clicking on “Send”, tap the three-dot menu in the top right corner:
+### After clicking on `Send`, tap the three-dot menu in the top right corner:
 
 #### Allow Fee Bump
 
@@ -10,6 +10,6 @@ The increase fee option will appear in your pending transaction. Simply click on
 
 #### **Add Recipient**
 
-If you have two or more transactions to make, you can enter additional recipient addresses and the respective amounts you wish to send. This feature allows you to spend less fees versus sending them out individually. Simply add the address and amount for every recipient you wish to send to. You can add as many recipients as you like
+If you have two or more transactions to make, you can enter additional recipient addresses and the respective amounts you wish to send. This feature allows you to spend less fees versus sending them out individually. Simply add the address and amount for every recipient you wish to send to. You can add as many recipients as you like.
 
 ****

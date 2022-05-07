@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Why we recommend Blue Wallet](README.md)
+* [Why we recommend BlueWallet](README.md)
 * [Guide Overview](guide-overview.md)
 
 ## 🏰 Security Overview
